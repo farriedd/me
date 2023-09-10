@@ -1,0 +1,17 @@
+body {
+    background-color: #282828;
+}
+
+h1 {
+    padding: 10px;
+    text-align: center;
+    text
+    font-size: 30px;
+    color: #ffffff;
+    display: flex;
+    font-family: "Cascadia Code", Consolas, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+    justify-content: center;
+    margin-top: 1.2em;
+    position: relative;
+}
+
